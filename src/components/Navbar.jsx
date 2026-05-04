@@ -93,7 +93,7 @@ export default function Navbar({ searchTerm, setSearchTerm }) {
 
                 {/* Logo */}
                 <a href="/" className="flex items-center gap-2 shrink-0">
-                    <img src="/logo.png" alt="NextOn" className="h-10 w-auto object-contain" />
+                    <img src="logo.png" alt="NextOn" className="h-10 w-auto object-contain" />
                     <span className="text-xl font-black tracking-tight text-dark">
                         Next<span className="text-primary">O</span>n
                     </span>

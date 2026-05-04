@@ -8,7 +8,7 @@ export default function Footer() {
                 {/* Brand */}
                 <div>
                     <div className="flex items-center mb-4">
-                        <img src="/logo.png" alt="NextOn" className="h-12 w-auto object-contain" />
+                        <img src="logo.png" alt="NextOn" className="h-12 w-auto object-contain" />
                     </div>
                     <p className="text-white/50 text-sm leading-relaxed max-w-xs">
                         Tu tienda de confianza para hardware, laptops y periféricos gaming. Calidad garantizada.
