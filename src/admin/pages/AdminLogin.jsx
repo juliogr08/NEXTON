@@ -56,7 +56,7 @@ export default function AdminLogin({ onLogin }) {
                         />
                         <div className="relative">
                             <div className="flex items-center justify-center gap-3 mb-3">
-                                <img src="/logo.png" alt="NextOn" className="h-10 w-auto object-contain" />
+                                <img src="logo.png" alt="NextOn" className="h-10 w-auto object-contain" />
                                 <span className="text-2xl font-black tracking-tight text-white">
                                     Next<span className="text-[#E8232C]">O</span>n
                                 </span>
